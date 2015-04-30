@@ -1,5 +1,5 @@
-master1
+dev1
 Create a new branch is quick
-master2
+dev2
 # gitskills
-master3
+dev3
